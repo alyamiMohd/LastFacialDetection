@@ -1,4 +1,5 @@
+tensorflow
+keras
 Flask
 opencv-python-headless
-keras
 numpy
