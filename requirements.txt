@@ -1,5 +1,11 @@
-tensorflow
-keras
-Flask
-opencv-python-headless
-numpy
+click==8.0.3
+colorama==0.4.4
+Flask==2.0.2
+itsdangerous==2.0.1
+Jinja2==3.0.2
+MarkupSafe==2.0.1
+Werkzeug==2.0.2
+tensorflow==2.5.0
+keras==2.4.3
+opencv-python==4.5.3.56
+numpy==1.19.5
